@@ -1,0 +1,34 @@
+C:\Users\Sonic\AppData\Local\Temp\arduino_build_414835\libraries\lvgl\draw\lv_img_buf.c.o: \
+ C:\Projects\SOFTWARE\arduino_1_8_19_portable\portable\sketchbook\libraries\lvgl\src\draw\lv_img_buf.c \
+ C:\Projects\SOFTWARE\arduino_1_8_19_portable\portable\sketchbook\libraries\lvgl\src\draw\lv_img_buf.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_color.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/lv_conf_internal.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/lv_conf_kconfig.h \
+ C:\Projects\SOFTWARE\arduino_1_8_19_portable\portable\packages\esp32\tools\esp32s3-libs\3.3.12/include/esp_common/include/esp_attr.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/lv_conf.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_assert.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_log.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_types.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_mem.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_math.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_area.h \
+ C:\Projects\SOFTWARE\arduino_1_8_19_portable\portable\sketchbook\libraries\lvgl\src\draw\lv_draw_img.h \
+ C:\Projects\SOFTWARE\arduino_1_8_19_portable\portable\sketchbook\libraries\lvgl\src\draw\lv_img_decoder.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/lv_conf_internal.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_fs.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_types.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_style.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/font/lv_font.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/lv_conf_internal.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/font/lv_symbol_def.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_area.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_color.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_area.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_anim.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_txt.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_printf.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_bidi.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_style_gen.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_math.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_log.h \
+ C:/Projects/SOFTWARE/arduino_1_8_19_portable/portable/sketchbook/libraries/lvgl/src/misc/lv_mem.h
